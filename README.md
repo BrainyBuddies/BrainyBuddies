@@ -9,4 +9,6 @@ I will make programs that run on: Java, BatchScripting, Python, and, C#, JBean
 Discord: MKXGames#5387
 Check out my projects📢 --> in my repository.
 
-![BrainyBuddies's GitHub stats](https://github-readme-stats.vercel.app/api?username=brainybuddies&hide=contribs,prs)
+![BrainyBuddies GitHub stats](https://github-readme-stats.vercel.app/api?username=brainybuddies&hide=contribs,prs)
+
+
