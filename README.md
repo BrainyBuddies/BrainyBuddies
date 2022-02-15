@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @BrainyBuddies...
-I will make programs that run on: java, batchfile, python, and, C#
-and i will make AI's
+I will make programs that run on: Java, BatchScripting, Python, and, C#
+,and I am Intersted in making AI's
 Discord: MKXGames#5387
-Thanks.
+Check out my projects📢 --> in my repository.
+
