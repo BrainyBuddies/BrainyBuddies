@@ -1,6 +1,6 @@
 # Hello,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Im shadowstriker
 ("AKA MKXGames")
-
+**CURRENTLY PROJECTS ARE SET TO PRIVATE**
 # **About me:** 
 
 I will make programs that run on: Java, BatchScripting, Python, and, C#, JBean.
